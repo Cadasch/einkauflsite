@@ -1,5 +1,6 @@
 bananen
 erbeeren
 brot
-shockolade
-kartofeln
+pomes
+hänchen
+knoblauch
